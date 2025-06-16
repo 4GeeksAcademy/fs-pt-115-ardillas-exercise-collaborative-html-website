@@ -2,6 +2,7 @@ body{
     background: white;
 }
 
+
 .card a {
     font-weight: bold;
     font-size: large;
@@ -12,6 +13,6 @@ body{
 
 .card-img-top {
     height: 200px;
-    width: 300px; /* o el alto que quieras */
-    object-fit: cover; /* opcional: mantiene el recorte bonito */
+    width: 300px;
+    object-fit: cover;
 }
