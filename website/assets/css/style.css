@@ -1,3 +1,17 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.card a {
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    height: 200px;
+    width: 300px; /* o el alto que quieras */
+    object-fit: cover; /* opcional: mantiene el recorte bonito */
 }
