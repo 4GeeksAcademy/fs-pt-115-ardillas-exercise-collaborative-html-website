@@ -1,5 +1,8 @@
-body{
-    background: #BDBDBD;
+
+.card-img-top {
+    height: 200px;
+    width: 200px; 
+    object-fit: cover;
 }
 .tagline {
     background-image: url("/website/assets/img/bg.jpg");
