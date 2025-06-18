@@ -1,11 +1,19 @@
 body{
     background: white;
 }
-
-
-
 .card-img-top {
     height: 200px;
     width: 200px; 
     object-fit: cover;
 }
+.tagline {
+    background-image: url("/website/assets/img/bg.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tagline h1 {
+    font-size: 170px;
+}
+
