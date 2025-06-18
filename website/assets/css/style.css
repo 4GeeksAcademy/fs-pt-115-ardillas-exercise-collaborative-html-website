@@ -1,4 +1,6 @@
-
+body{
+    background: white;
+}
 .card-img-top {
     height: 200px;
     width: 200px; 
