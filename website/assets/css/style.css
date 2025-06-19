@@ -10,10 +10,15 @@ body{
     background-image: url("/website/assets/img/bg.jpg");
     background-size: cover;
     display: flex;
+    flex-direction: column;
+    text-align: center;
     justify-content: center;
     align-items: center;
 }
 .tagline h1 {
     font-size: 170px;
+}
+.tagline h2 {
+    font-size: 100px;
 }
 
